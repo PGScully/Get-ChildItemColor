@@ -137,7 +137,7 @@ $GetChildItemColorExtensions.Add(
         ".pro",
 
         # Python
-        ".py", ".pyx", ".pyc", ".pyd", ".pyo", ".pyw", ".pyz",
+        ".py", ".pyx", ".pyc", ".pyd", ".pyo", ".pyw", ".pyz", ".ipynb",
 
         # R Programming Language
         ".r", ".RData", ".rds", ".rda",

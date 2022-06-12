@@ -79,6 +79,9 @@ $GetChildItemColorExtensions.Add(
         # Clojure
         ".clj", ".cljs", ".cljc", "edn",
 
+        # Dart
+        ".dart",
+
         # Erlang
         ".erl", ".hrl",
 

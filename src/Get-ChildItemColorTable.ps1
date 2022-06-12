@@ -110,6 +110,9 @@ $GetChildItemColorExtensions.Add(
         # Javascript
         ".js", ".mjs", ".ts", ".tsx"
 
+        # Kotlin
+        ".kt",
+
         # Objective C
         ".m", ".mm",
 
